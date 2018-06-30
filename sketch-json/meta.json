@@ -1,0 +1,60 @@
+{
+  "commit": "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+  "pagesAndArtboards": {
+    "E5DFDAE5-9C19-4999-BA29-F4A14CE246AE": {
+      "name": "Page 1",
+      "artboards": {
+        "75450529-703A-437B-9D3B-B3F0B5E43812": {
+          "name": "avatar"
+        }
+      }
+    },
+    "EE961562-060E-4321-B9FF-7A1ACFA2879C": {
+      "name": "Symbols",
+      "artboards": {
+        "4FDE2739-F2EA-41B7-94D2-4F04C1DDD33E": {
+          "name": "ui \/ avatar \/ primary \/ micro"
+        },
+        "513DAEF7-AF8D-4A32-BD5F-A33BDE1B882B": {
+          "name": "colors \/ black"
+        },
+        "23EAA0B6-148E-4BCF-884B-BE63BEA990DD": {
+          "name": "colors \/ white"
+        },
+        "5C5FF161-03F8-4EB7-BF68-0EB914F6AE78": {
+          "name": "ui \/ avatar \/ primary \/ medium"
+        },
+        "732CA4D5-86ED-43C1-92BC-97CCF41B66B9": {
+          "name": "ui \/ avatar \/ primary \/ small"
+        },
+        "E5E34822-FEC4-4A46-8FB6-EC9B39BDF396": {
+          "name": "ui \/ avatar \/ primary \/ x-large"
+        },
+        "C5ACEEA7-BA6A-4237-8E37-717D7DB79525": {
+          "name": "ui \/ avatar \/ primary \/ large"
+        },
+        "8E6FE56A-5D73-469A-8BC0-E556CE708A78": {
+          "name": "ui \/ avatar \/ secondary \/ medium"
+        }
+      }
+    }
+  },
+  "version": 103,
+  "fonts": ["AvenirNext-Bold", "AvenirNext-DemiBold"],
+  "compatibilityVersion": 99,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 0,
+  "variant": "NONAPPSTORE",
+  "created": {
+    "commit": "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+    "appVersion": "50.2",
+    "build": 55047,
+    "app": "com.bohemiancoding.sketch3",
+    "compatibilityVersion": 99,
+    "version": 103,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": ["NONAPPSTORE.55047"],
+  "appVersion": "50.2",
+  "build": 55047
+}
